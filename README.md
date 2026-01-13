@@ -27,19 +27,33 @@ This project is built to practice real-world frontend development concepts and t
 
 ---
 grouply_habit_tracker/
+
 ├── public/
+
 │ └── vite.svg
+
 ├── src/
+
 │ ├── assets/
+
 │ │ └── react.svg
+
 │ ├── App.jsx
+
 │ ├── App.css
+
 │ ├── main.jsx
+
 │ └── index.css
+
 ├── index.html
+
 ├── package.json
+
 ├── package-lock.json
+
 ├── vite.config.js
+
 └── README.md
 
 ---
@@ -57,16 +71,10 @@ cd grouply_habit_tracker
 3. Install dependencies  
 npm install
 
-
 4. Start the development server  
-
-
 npm run dev
 
-
-5. Open the application in your browser  
-
-
+5. Open the application in your browser 
 http://localhost:5173
 
 
@@ -105,5 +113,5 @@ This project is created for educational and learning purposes.
 
 Neola  
 GitHub: https://github.com/neola-dev
-## 📂 Project Structure
+
 

@@ -1,16 +1,109 @@
-# React + Vite
+# Grouply Habit Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Grouply Habit Tracker is a modern web application designed to help users build and maintain positive habits through simple tracking and a clean, user-friendly interface.
 
-Currently, two official plugins are available:
+This project is built to practice real-world frontend development concepts and to follow professional Git and GitHub workflows suitable for industry-level projects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Create and manage daily habits  
+- Track habit consistency over time  
+- Clean and minimal user interface  
+- Fast development and build process using Vite  
+- Organized and scalable project structure  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- Frontend: React.js  
+- Build Tool: Vite  
+- Styling: CSS  
+- Programming Language: JavaScript (ES6+)  
+- Version Control: Git  
+- Repository Hosting: GitHub (SSH-based authentication)  
+
+---
+grouply_habit_tracker/
+├── public/
+│ └── vite.svg
+├── src/
+│ ├── assets/
+│ │ └── react.svg
+│ ├── App.jsx
+│ ├── App.css
+│ ├── main.jsx
+│ └── index.css
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+
+---
+
+## ⚙️ Installation and Setup
+
+Follow the steps below to run the project locally:
+
+1. Clone the repository  
+git clone git@github.com:neola-dev/grouply_habit_tracker.git
+
+2. Navigate to the project directory  
+cd grouply_habit_tracker
+
+3. Install dependencies  
+npm install
+
+
+4. Start the development server  
+
+
+npm run dev
+
+
+5. Open the application in your browser  
+
+
+http://localhost:5173
+
+
+---
+
+## 📸 Screenshots
+
+Screenshots will be added after completing the UI enhancements.
+
+---
+
+## 🚧 Future Enhancements
+
+- User authentication  
+- Habit streak and progress visualization  
+- Calendar-based habit tracking  
+- Backend integration for data persistence  
+- Improved mobile responsiveness  
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome.  
+Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is created for educational and learning purposes.
+
+---
+
+## 👩‍💻 Author
+
+Neola  
+GitHub: https://github.com/neola-dev
+## 📂 Project Structure
+
